@@ -51,5 +51,3 @@ While working on this app, I learned:
 ![App Screenshot](/src/assets/Screenshot%202023-11-19%20at%2011.42.32.png)
 
 ![App Screenshot](/src/assets/Screenshot%202023-11-19%20at%2011.43.31.png)
-
-Add a screenshot of your app to this section to showcase its appearance.

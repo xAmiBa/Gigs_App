@@ -48,8 +48,8 @@ While working on this app, I learned:
 
 ## Screenshots
 
-![App Screenshot](./src/assets/Screenshot%2023-11-19%at%11.42.32.png)
+![App Screenshot](src/assets/Screenshot%2023-11-19%at%11.42.32.png)
 
-![App Screenshot](./src/assets/Screenshot%2023-11-19%at%11.43.31.png)
+![App Screenshot](src/assets/Screenshot%2023-11-19%at%11.43.31.png)
 
 Add a screenshot of your app to this section to showcase its appearance.
